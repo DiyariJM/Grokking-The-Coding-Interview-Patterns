@@ -1,7 +1,7 @@
 # Grokking The Coding Interview Patterns
 ## Coding Interview Patterns
 ### 1. Pattern: Sliding Window
-1.1. Introduction [solution]()  
+1.1. Introduction [Solution](https://github.com/DiyariJM/Grokking-The-Coding-Interview-Patterns/blob/main/1_1_Sliding_Window_Introduction.kt)  
 1.2. Maximum Sum Subarray of Size K (easy)  
 1.3. Smallest Subarray with a given sum (easy) [Educative.io](https://www.educative.io/courses/grokking-the-coding-interview/7XMlMEQPnnQ)  
 1.4. Longest Substring with K Distinct Characters (medium) [Educative.io](https://www.educative.io/courses/grokking-the-coding-interview/YQQwQMWLx80)  
